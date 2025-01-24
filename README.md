@@ -1,4 +1,2 @@
 # TestPic
-Testing code ideas
-
-Trying to uplaod photos to github repository
+Opload photos to github repository for cloud storage
